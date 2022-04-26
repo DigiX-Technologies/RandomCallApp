@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836268150351",
+    "project_id": "cherrycall-bd91e",
+    "storage_bucket": "cherrycall-bd91e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836268150351:android:03139e14e633103ab2243a",
+        "android_client_info": {
+          "package_name": "com.example.cheery_mobile_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836268150351-k38usjofm405ttaihiv1vdhsgvdci9gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cheery_mobile_call",
+            "certificate_hash": "88f31a8d44fc7842455ce3ca2e4f19a6094bcca9"
+          }
+        },
+        {
+          "client_id": "836268150351-vt44pscrtb2lkshtdi3ch26fpv0jjjpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI65TNS0OyYCQ3SDjnTQviDq0b8MYY0Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836268150351-vt44pscrtb2lkshtdi3ch26fpv0jjjpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
